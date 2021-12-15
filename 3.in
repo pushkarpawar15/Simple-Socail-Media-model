@@ -1,0 +1,11 @@
+Access Denied
+Invalid Input
+User Id: 1, User Name: user1, Number of Posts: 1, Following Count: 1
+User Id: 2, User Name: user2, Number of Posts: 1, Following Count: 0
+User Id: 3, User Name: user3, Number of Posts: 0, Following Count: 0
+Invalid Input
+User Id: 4, User Name: user4, Number of Posts: 0, Following Count: 0
+Access Denied
+Post Id: 1, User Id: 1, Year: 2021, Post Content: this is the first post
+Post Id: 2, User Id: 2, Year: 2020, Post Content: this is the second post
+Invalid Input
